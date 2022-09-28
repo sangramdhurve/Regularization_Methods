@@ -1,1 +1,0 @@
-This is a basic to advance tutorial for the Regularization method for python lovers in the machine learning area.
